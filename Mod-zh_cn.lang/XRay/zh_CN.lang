@@ -1,0 +1,44 @@
+// Debug stuff. Much less important than the normal stuff
+xray.debug.init=XRay 初始化
+
+// Normal stuff
+// Single words
+xray.single.cancel=取消
+xray.single.add=添加
+xray.single.delete=删除
+xray.single.save=保存
+xray.single.tools=工具
+xray.single.close=关闭
+
+xray.color.red=红色
+xray.color.green=绿色
+xray.color.blue=蓝色
+
+xray.input.gui=GUI 名称
+xray.input.add=添加方块
+xray.input.add_hand=添加手上的方块
+xray.input.add_look=添加所指方块
+xray.input.distance=距离
+xray.input.change_meta=元数据(Meta)
+
+xray.title.config=配置方块
+xray.title.edit=编辑方块
+xray.title.edit_meta=编辑元数据(Meta)
+
+xray.message.missing_input=你需要把所有的数据都填进去
+xray.message.already_exists=此方块已被添加到方块列表中
+xray.message.added_block=成功添加 %s.
+xray.message.updated_block=更新 %s
+xray.message.remove_block=%s 已被移除
+xray.message.block_exists=%s 已经存在，请输入不同的名称
+xray.message.unknown=你试图编辑的方块看起来不存在
+xray.message.removed=成功移除 %s.
+xray.message.config_missing=找不到配置文件。请添加新的
+xray.message.invalid_hand=%s 需要一个方块
+xray.message.thats_odd=出了什么事？很抱歉。如果这种情况继续发生，就提交问题
+xray.message.nothing_infront=你什么都没看，是吗？
+xray.message.not_a_number={%s} 不是一个数字，请使用一个数字作为元数据(Meta)
+xray.message.meta_not_supported={%s} 不是一个有效的元数据(Meta) {%s}
+
+xray.config.toggle=切换 XRay
+xray.config.open=打开 XRay 菜单
